@@ -224,7 +224,7 @@ Rezultatas:
 
 ![](book.png)
 
-Paskutinis dalykas - tai nesujinginėta navigacija. Sutvarkykime base.html:
+Paskutinis dalykas - tai nesujunginėta navigacija. Sutvarkykime base.html:
 
 ```html
 {% block sidebar %}
